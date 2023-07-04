@@ -8,7 +8,7 @@ This repository contains my performance testing cases in JMeter.
 
 ## Case 1:
 
-Create 3 load profiles and write tests for each of them.
+Blog web app. Perform a test of 4 load scenarios.
 
 ### 1.1
 
